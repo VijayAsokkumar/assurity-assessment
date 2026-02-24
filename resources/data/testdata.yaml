@@ -1,0 +1,15 @@
+category_details:
+  "6327":
+    params:
+      catalogue: "false"
+    expected:
+      status_code: 200
+      fields:
+        Name: "Carbon credits"
+        CanRelist: true
+      Promotions:
+        - match:
+            Name: "Gallery"
+            validations:
+              Description:
+                contains: "Good position in category"
