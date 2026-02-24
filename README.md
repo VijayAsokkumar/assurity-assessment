@@ -104,14 +104,14 @@ Open this file in a browser to view detailed test results as displayed above.
 
 ***Key Features***
 
-Built using pytest
+> Built using pytest
 
-Fully data-driven validation
+> Fully data-driven validation
 
-Scalable architecture
+> Scalable architecture
 
-Centralized configuration management
+> Centralized configuration management
 
-HTML reporting support
+> HTML reporting support
 
-Designed for future extensibility
+> Designed for future extensibility
