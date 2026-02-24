@@ -97,8 +97,10 @@ Execute the tests and generate an HTML report using:
 After execution, the report will be generated in the reports/ directory:
 
 ```reports/report.html```
+<img width="1469" height="812" alt="Screenshot 2026-02-25 at 11 30 55 AM" src="https://github.com/user-attachments/assets/753cb9da-65af-4274-9271-f96c974802bd" />
 
-Open this file in a browser to view detailed test results.
+
+Open this file in a browser to view detailed test results as displayed above.
 
 ***Key Features***
 
